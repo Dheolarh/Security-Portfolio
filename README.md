@@ -11,7 +11,6 @@ The projects documented here reflect real-world scenarios and industry-standard 
 
 ### 1. [Network Analysis](Network%20Analysis/)
 **Tools**: Wireshark  
-**Frameworks**: CyBOK Incident Response Model, SANS Incident Handler's Handbook
 
 This project involves deep packet inspection and analysis of network traffic to identify malicious activities and security threats. Using Wireshark, I analyzed multiple packet captures revealing critical security incidents including:
 
