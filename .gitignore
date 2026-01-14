@@ -1,6 +1,10 @@
-# Ignore specific folders
+# Ignore folders that are work in progress
 Intrusion Detection/
 Vulnerability Assessment/
+
+# Ignore large binary files
+*.pcap
+*.pcapng
 
 # Ignore system files
 .DS_Store
