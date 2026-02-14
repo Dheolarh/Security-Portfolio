@@ -1,5 +1,3 @@
-# Network Analysis Project
-
 ## Overview
 This project focuses on analyzing network traffic to identify and mitigate security threats. The analysis was conducted using packet capture (pcap) files and tools like Wireshark. The findings highlight critical vulnerabilities and provide actionable recommendations to improve network security.
 
